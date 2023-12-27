@@ -12,7 +12,7 @@
     z-index: 1;
 }
 
-.tooltip:hover .toolti{
+.tooltip:hover + .toolti{
         visibility: visible;
         color: red;
 }
